@@ -34,7 +34,7 @@
   - Bachelor degree in Information Systems at Faculdade de Ciências Jurídicas e Gerenciais de Oliveira;
   - Graduation degree in Information Systems Management at Universidade Federal de Lavras;
   - Graduation degree in Information Systems Management at Faculdades Integradas de Jacarepaguá;
-- 👓  » Interests: Java, HTML5, CSS3, JavaScript, Git e GitHub.
+- 👓  » Interests: Java, PHP, HTML5, CSS3, Git e GitHub.
 
 <p id ="skills" align="left"></p>
 
