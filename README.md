@@ -29,7 +29,7 @@
 ## 🐱‍💻About me 
 
 - 👨‍🦽  » Autism Disorder Spectrum
-- 💻  » Developer (Java now, Kotlin and Flutter next)
+- 💻  » Developer - Androi/Kotlin
 - 👨‍🎓  » Education background
   - Bachelor degree in Information Systems at Faculdade de Ciências Jurídicas e Gerenciais de Oliveira;
   - Graduation degree in Information Systems Management at Universidade Federal de Lavras;
@@ -41,9 +41,17 @@
 ## 💪 Skills
 
 <p align="center">
+    <img height="40" src="https://github.com/devicons/devicon/tree/master/icons/kotlin/kotlin-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://github.com/devicons/devicon/tree/master/icons/android/android-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img height="40" src="https://github.com/devicons/devicon/tree/master/icons/linux/linux-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://github.com/devicons/devicon/tree/master/icons/androidstudio/androidstudio-original.svg">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src=" https://github.com/devicons/devicon/tree/master/icons/intellij/intellij-original.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
