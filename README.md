@@ -29,7 +29,7 @@
 ## 🐱‍💻About me 
 
 - 👨‍🦽  » Autism Disorder Spectrum
-- 💻  » Developer - Androi/Kotlin
+- 💻  » Developer - Android/Kotlin
 - 👨‍🎓  » Education background
   - Bachelor degree in Information Systems at Faculdade de Ciências Jurídicas e Gerenciais de Oliveira;
   - Graduation degree in Information Systems Management at Universidade Federal de Lavras;
