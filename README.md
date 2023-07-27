@@ -34,7 +34,7 @@
   - Bachelor degree in Information Systems at Faculdade de Ciências Jurídicas e Gerenciais de Oliveira;
   - Graduation degree in Information Systems Management at Universidade Federal de Lavras;
   - Graduation degree in Information Systems Management at Faculdades Integradas de Jacarepaguá;
-- 👓  » Interests=> Main: Android and Kotlin - Sub: Flutter, Java, AWS, Terraform, Ansible (Because o my technology hyperfocus, I like most themes when subject is related).
+- 👓  » Interests=> Main: Android and Kotlin - Sub: Java, AWS, Terraform, Ansible (Because o my technology hyperfocus, I like most themes when subject is related).
 
 <p id ="skills" align="left"></p>
 
