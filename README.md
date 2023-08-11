@@ -24,7 +24,7 @@
 
 <p id ="aboutme" align="left"></p>
 
-## 🐱‍💻About me 
+## 🐱‍💻 About me 
 
 - 👨‍🦽  » Autism Spectrum Disorder
 - 💻  » Software Engineer - Android/Kotlin
